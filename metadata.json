@@ -1,0 +1,5 @@
+{
+  "name": "Perfect app",
+  "description": "A smart local manga reader with AI-powered transcription and auto-advance capabilities.",
+  "requestFramePermissions": []
+}
